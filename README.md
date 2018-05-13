@@ -11,9 +11,10 @@ Our product people came up with a few requirements that should do the trick:
 - upper case letters
 - an emoji on each end
 - the sign should light up from top to bottom, one section every half a second
+
 We also decided to use the `neon.js` framework to do some of the heavy lifting.
 
-Unfortunately they haven't decided on what type of food we will be selling so we need to keep it flexible.
+Unfortunately they haven't decided on what type of food we will be selling, so we need to keep it flexible.
 
 Example:
 ```
