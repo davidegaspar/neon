@@ -1,0 +1,27 @@
+{
+  "name": "neon",
+  "version": "1.0.0",
+  "description": "neon themed interview code test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidegaspar/neon.git"
+  },
+  "keywords": [
+    "neon",
+    "interview",
+    "test",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "davidegaspar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidegaspar/neon/issues"
+  },
+  "homepage": "https://github.com/davidegaspar/neon#readme"
+}
